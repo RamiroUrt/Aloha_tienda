@@ -1,0 +1,492 @@
+[
+  {
+    "id": 1,
+    "titulo": "Aerosol Sandía Pepino",
+    "imagen": "/IMG/aerosoles/aerosol-1.jpg",
+    "categoria": "aerosoles",
+    "precio": 970
+  },
+  {
+    "id": 2,
+    "titulo": "Aerosol Café au Chocolat",
+    "imagen": "/IMG/aerosoles/aerosol-2.jpg",
+    "categoria": "aerosoles",
+    "precio": 970
+  },
+  {
+    "id": 3,
+    "titulo": "Aerosol Naranja y Chocolate",
+    "imagen": "/IMG/aerosoles/aerosol-3.jpg",
+    "categoria": "aerosoles",
+    "precio": 970
+  },
+  {
+    "id": 4,
+    "titulo": "Aerosol Vainilla Tonka",
+    "imagen": "/IMG/aerosoles/aerosol-4.jpg",
+    "categoria": "aerosoles",
+    "precio": 970
+  },
+  {
+    "id": 5,
+    "titulo": "Aerosol Lavanda y Te Verde",
+    "imagen": "/IMG/aerosoles/aerosol-5.jpg",
+    "categoria": "aerosoles",
+    "precio": 970
+  },
+  {
+    "id": 6,
+    "titulo": "Aerosol Pera y Durazno",
+    "imagen": "/IMG/aerosoles/aerosol-6.jpg",
+    "categoria": "aerosoles",
+    "precio": 970
+  },
+  {
+    "id": 7,
+    "titulo": "Aerosol Pomelo Rosado",
+    "imagen": "/IMG/aerosoles/aerosol-7.jpg",
+    "categoria": "aerosoles",
+    "precio": 970
+  },
+  {
+    "id": 8,
+    "titulo": "Aerosol Bergamota y Naranja",
+    "imagen": "/IMG/aerosoles/aerosol-8.jpg",
+    "categoria": "aerosoles",
+    "precio": 970
+  },
+  {
+    "id": 9,
+    "titulo": "Aerosol Ciruela",
+    "imagen": "/IMG/aerosoles/aerosol-9.jpg",
+    "categoria": "aerosoles",
+    "precio": 970
+  },
+  {
+    "id": 10,
+    "titulo": "Aerosol Bouquet Floral",
+    "imagen": "/IMG/aerosoles/aerosol-10.jpg",
+    "categoria": "aerosoles",
+    "precio": 970
+  },
+  {
+    "id": 11,
+    "titulo": "Aerosol Antitabaco",
+    "imagen": "/IMG/aerosoles/aerosol-11.jpg",
+    "categoria": "aerosoles",
+    "precio": 970
+  },
+  {
+    "id": 12,
+    "titulo": "Aerosol Mix Tropical",
+    "imagen": "/IMG/aerosoles/aerosol-12.jpg",
+    "categoria": "aerosoles",
+    "precio": 970
+  },
+  {
+    "id": 13,
+    "titulo": "Aerosol Coco Maracuyá",
+    "imagen": "/IMG/aerosoles/aerosol-13.jpg",
+    "categoria": "aerosoles",
+    "precio": 970
+  },
+  {
+    "id": 14,
+    "titulo": "Aerosol Palo Santo",
+    "imagen": "/IMG/aerosoles/aerosol-14.jpg",
+    "categoria": "aerosoles",
+    "precio": 970
+  },
+  {
+    "id": 15,
+    "titulo": "Aerosol Cristóbal",
+    "imagen": "/IMG/aerosoles/aerosol-15.jpg",
+    "categoria": "aerosoles",
+    "precio": 970
+  },
+  {
+    "id": 16,
+    "titulo": "Aerosol Frutilla",
+    "imagen": "/IMG/aerosoles/aerosol-16.jpg",
+    "categoria": "aerosoles",
+    "precio": 970
+  },
+  {
+    "id": 17,
+    "titulo": "Aerosol Paula",
+    "imagen": "/IMG/aerosoles/aerosol-17.jpg",
+    "categoria": "aerosoles",
+    "precio": 970
+  },
+  {
+    "id": 18,
+    "titulo": "Pack Premium Deco Golden",
+    "imagen": "/IMG/Pack Premium/pack-1.png",
+    "categoria": "pack",
+    "precio": 5330
+  },
+  {
+    "id": 19,
+    "titulo": "Pack Premium Deco White",
+    "imagen": "/IMG/Pack Premium/pack-2.png",
+    "categoria": "pack",
+    "precio": 5330
+  },
+  {
+    "id": 20,
+    "titulo": "Pack Premium Deco White",
+    "imagen": "/IMG/Pack Premium/pack-3.png",
+    "categoria": "pack",
+    "precio": 5330
+  },
+  {
+    "id": 21,
+    "titulo": "Pack Premium Deco Red Blood",
+    "imagen": "/IMG/Pack Premium/pack-4.png",
+    "categoria": "pack",
+    "precio": 5330
+  },
+  {
+    "id": 22,
+    "titulo": "Pack Premium",
+    "imagen": "/IMG/Pack Premium/pack-5.jpg",
+    "categoria": "pack",
+    "precio": 5150
+  },
+  {
+    "id": 23,
+    "titulo": "Sahumerios Vrindavan Flower",
+    "imagen": "/IMG/sahumerios/sahumerios-1.jpg",
+    "categoria": "sahumerios",
+    "precio": 830
+  },
+  {
+    "id": 24,
+    "titulo": "Sahumerios Vainilla",
+    "imagen": "/IMG/sahumerios/sahumerios-2.jpg",
+    "categoria": "sahumerios",
+    "precio": 830
+  },
+  {
+    "id": 25,
+    "titulo": "Sahumerios Sweet Basil",
+    "imagen": "/IMG/sahumerios/sahumerios-3.jpg",
+    "categoria": "sahumerios",
+    "precio": 830
+  },
+  {
+    "id": 26,
+    "titulo": "Sahumerios Sándalo Madera",
+    "imagen": "/IMG/sahumerios/sahumerios-4.jpg",
+    "categoria": "sahumerios",
+    "precio": 830
+  },
+  {
+    "id": 27,
+    "titulo": "Sahumerios Patchouli",
+    "imagen": "/IMG/sahumerios/sahumerios-5.jpg",
+    "categoria": "sahumerios",
+    "precio": 830
+  },
+  {
+    "id": 28,
+    "titulo": "Sahumerios Patchouli",
+    "imagen": "/IMG/sahumerios/sahumerios-6.jpg",
+    "categoria": "sahumerios",
+    "precio": 830
+  },
+  {
+    "id": 29,
+    "titulo": "Sahumerios Nag Champa",
+    "imagen": "/IMG/sahumerios/sahumerios-7.jpg",
+    "categoria": "sahumerios",
+    "precio": 830
+  },
+  {
+    "id": 30,
+    "titulo": "Sahumerios Musk",
+    "imagen": "/IMG/sahumerios/sahumerios-8.jpg",
+    "categoria": "sahumerios",
+    "precio": 830
+  },
+  {
+    "id": 31,
+    "titulo": "Sahumerios Frankincense",
+    "imagen": "/IMG/sahumerios/sahumerios-9.jpg",
+    "categoria": "sahumerios",
+    "precio": 830
+  },
+  {
+    "id": 32,
+    "titulo": "Sahumerios Fancy Bouquet",
+    "imagen": "/IMG/sahumerios/sahumerios-10.jpg",
+    "categoria": "sahumerios",
+    "precio": 830
+  },
+  {
+    "id": 33,
+    "titulo": "Sahumerios Cinnamon",
+    "imagen": "/IMG/sahumerios/sahumerios-11.jpg",
+    "categoria": "sahumerios",
+    "precio": 830
+  },
+  {
+    "id": 34,
+    "titulo": "Sahumerios Amber",
+    "imagen": "/IMG/sahumerios/sahumerios-12.jpg",
+    "categoria": "sahumerios",
+    "precio": 830
+  },
+  {
+    "id": 35,
+    "titulo": "Textil Frutos Patagónicos – Argentina",
+    "imagen": "/IMG/textiles/textil-1.jpg",
+    "categoria": "textiles",
+    "precio": 710
+  },
+  {
+    "id": 36,
+    "titulo": "Textil Maracuyá – Corrientes",
+    "imagen": "/IMG/textiles/textil-2.jpg",
+    "categoria": "textiles",
+    "precio": 710
+  },
+  {
+    "id": 37,
+    "titulo": "Textil Green – Misiones",
+    "imagen": "/IMG/textiles/textil-3.jpg",
+    "categoria": "textiles",
+    "precio": 710
+  },
+  {
+    "id": 38,
+    "titulo": "Textil Duvet – Santiago del Estero",
+    "imagen": "/IMG/textiles/textil-4.jpg",
+    "categoria": "textiles",
+    "precio": 710
+  },
+  {
+    "id": 39,
+    "titulo": "Textil Verbena – Chubut",
+    "imagen": "/IMG/textiles/textil-5.jpg",
+    "categoria": "textiles",
+    "precio": 710
+  },
+  {
+    "id": 40,
+    "titulo": "Textil Jazmín – La Pampa",
+    "imagen": "/IMG/textiles/textil-6.jpg",
+    "categoria": "textiles",
+    "precio": 710
+  },
+  {
+    "id": 41,
+    "titulo": "Textil Magnolia y Fresia – Santa Cruz",
+    "imagen": "/IMG/textiles/textil-7.jpg",
+    "categoria": "textiles",
+    "precio": 710
+  },
+  {
+    "id": 42,
+    "titulo": "Textil Mery – Río Negro",
+    "imagen": "/IMG/textiles/textil-8.jpg",
+    "categoria": "textiles",
+    "precio": 710
+  },
+  {
+    "id": 43,
+    "titulo": "Textil Bamboo – Chaco",
+    "imagen": "/IMG/textiles/textil-9.jpg",
+    "categoria": "textiles",
+    "precio": 710
+  },
+  {
+    "id": 44,
+    "titulo": "Textil Angel – Catamarca",
+    "imagen": "/IMG/textiles/textil-10.jpg",
+    "categoria": "textiles",
+    "precio": 710
+  },
+  {
+    "id": 45,
+    "titulo": "Textil Bebé – Santa Fe",
+    "imagen": "/IMG/textiles/textil-11.jpg",
+    "categoria": "textiles",
+    "precio": 710
+  },
+  {
+    "id": 46,
+    "titulo": "Textil Linah – Entre Ríos",
+    "imagen": "/IMG/textiles/textil-12.jpg",
+    "categoria": "textiles",
+    "precio": 710
+  },
+  {
+    "id": 47,
+    "titulo": "Textil Papaya – Jujuy",
+    "imagen": "/IMG/textiles/textil-13.jpg",
+    "categoria": "textiles",
+    "precio": 710
+  },
+  {
+    "id": 48,
+    "titulo": "Textil Hawai – San Luis",
+    "imagen": "/IMG/textiles/textil-14.jpg",
+    "categoria": "textiles",
+    "precio": 710
+  },
+  {
+    "id": 49,
+    "titulo": "Textil Rocío – CABA",
+    "imagen": "/IMG/textiles/textil-15.jpg",
+    "categoria": "textiles",
+    "precio": 710
+  },
+  {
+    "id": 50,
+    "titulo": "Textil Lola – Buenos Aires",
+    "imagen": "/IMG/textiles/textil-16.jpg",
+    "categoria": "textiles",
+    "precio": 710
+  },
+  {
+    "id": 51,
+    "titulo": "Textil Coco Vai – San Juan",
+    "imagen": "/IMG/textiles/textil-17.jpg",
+    "categoria": "textiles",
+    "precio": 710
+  },
+  {
+    "id": 52,
+    "titulo": "Textil Tropical – Formosa",
+    "imagen": "/IMG/textiles/textil-18.jpg",
+    "categoria": "textiles",
+    "precio": 710
+  },
+  {
+    "id": 53,
+    "titulo": "Textil Lavanda – La Rioja",
+    "imagen": "/IMG/textiles/textil-19.jpg",
+    "categoria": "textiles",
+    "precio": 710
+  },
+  {
+    "id": 54,
+    "titulo": "Textil Cony – Córdoba",
+    "imagen": "/IMG/textiles/textil-20.jpg",
+    "categoria": "textiles",
+    "precio": 710
+  },
+  {
+    "id": 55,
+    "titulo": "Textil Vainilla – Salta",
+    "imagen": "/IMG/textiles/textil-21.jpg",
+    "categoria": "textiles",
+    "precio": 710
+  },
+  {
+    "id": 56,
+    "titulo": "Textil Flores Blancas – Neuquén",
+    "imagen": "/IMG/textiles/textil-22.jpg",
+    "categoria": "textiles",
+    "precio": 710
+  },
+  {
+    "id": 57,
+    "titulo": "Textil Bubblegum – Tierra del Fuego",
+    "imagen": "/IMG/textiles/textil-23.jpg",
+    "categoria": "textiles",
+    "precio": 710
+  },
+  {
+    "id": 58,
+    "titulo": "Textil Uva – Mendoza",
+    "imagen": "/IMG/textiles/textil-24.jpg",
+    "categoria": "textiles",
+    "precio": 710
+  },
+  {
+    "id": 59,
+    "titulo": "Textil Limón – Tucumán",
+    "imagen": "/IMG/textiles/textil-25.jpg",
+    "categoria": "textiles",
+    "precio": 710
+  },
+  {
+    "id": 60,
+    "titulo": "Difusor Premium Bergamota & Cedro",
+    "imagen": "/IMG/difusores/difusor-1.png",
+    "categoria": "difusores",
+    "precio": 2.49
+  },
+  {
+    "id": 61,
+    "titulo": "Difusor Premium Manzana Verde & Pepino",
+    "imagen": "/IMG/difusores/difusor-2.png",
+    "categoria": "difusores",
+    "precio": 2.49
+  },
+  {
+    "id": 62,
+    "titulo": "Difusor Premium Lima & Pera",
+    "imagen": "/IMG/difusores/difusor-3.png",
+    "categoria": "difusores",
+    "precio": 2.49
+  },
+  {
+    "id": 63,
+    "titulo": "Difusor Premium Pumpkin Cake",
+    "imagen": "/IMG/difusores/difusor-4.png",
+    "categoria": "difusores",
+    "precio": 2.49
+  },
+  {
+    "id": 64,
+    "titulo": "Difusor Premium Geranio & Frutos Tropicales",
+    "imagen": "/IMG/difusores/difusor-5.png",
+    "categoria": "difusores",
+    "precio": 2.49
+  },
+  {
+    "id": 65,
+    "titulo": "Difusor Premium Verbena Nature",
+    "imagen": "/IMG/difusores/difusor-6.png",
+    "categoria": "difusores",
+    "precio": 2.49
+  },
+  {
+    "id": 66,
+    "titulo": "Difusor Premium Moras & Naranja",
+    "imagen": "/IMG/difusores/difusor-7.png",
+    "categoria": "difusores",
+    "precio": 2.49
+  },
+  {
+    "id": 67,
+    "titulo": "Difusor Premium Cookies & Cream",
+    "imagen": "/IMG/difusores/difusor-8.png",
+    "categoria": "difusores",
+    "precio": 2.49
+  },
+  {
+    "id": 68,
+    "titulo": "Difusor Premium Eucalipto & Menta",
+    "imagen": "/IMG/difusores/difusor-9.png",
+    "categoria": "difusores",
+    "precio": 2.49
+  },
+  {
+    "id": 69,
+    "titulo": "Difusor Premium Melocoton Blanco",
+    "imagen": "/IMG/difusores/difusor-10.png",
+    "categoria": "difusores",
+    "precio": 2.49
+  },
+  {
+    "id": 70,
+    "titulo": "Difusor Premium Pétalos de Orquídeas",
+    "imagen": "/IMG/difusores/difusor-11.jpg",
+    "categoria": "difusores",
+    "precio": 2.49
+  }
+]

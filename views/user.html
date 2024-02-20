@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Aloha Aromas</title>
+        <link rel="shortcut icon" href="IMG/aloha-removebg-preview.png" type="image/x-icon">
+        <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css">
+        <link rel="stylesheet" href="CSS/style.css">
+            <!-- Link bootstrap icon-->
+            <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
+    </head>
+    <body>
+    <div class="wrapper">
+        <header class="header-mobile">
+            <img src="IMG/aloha-removebg-preview.png" alt="Aloha aromas" class="logo2">
+            <button class="open-menu" id="open-menu"><i class="bi bi-menu-down"></i></button>
+        </header>
+        <aside>
+            <button class="close-menu" id="close-menu">
+                <i class="bi bi-x-circle"></i>
+            </button>
+            <header>
+                <img src="IMG/aloha-removebg-preview.png" alt="Aloha aromas" class="logo">
+            </header>
+            <nav>
+                <ul class="menu">
+                    <li>
+                        <button id="todos" class="boton-menu boton-categoria active"><i class="bi bi-tag-fill"></i>Todos los productos</button>
+                    </li>
+                    <li>
+                        <button id="aerosoles" class="boton-menu boton-categoria"><i class="bi bi-tag-fill"></i>Aerosoles</button>
+                    </li>
+                        <button id="sahumerios" class="boton-menu boton-categoria" ><i class="bi bi-tag-fill"></i>Sahumerios</button>
+                    <li>
+                        <button id="difusores" class="boton-menu boton-categoria" ><i class="bi bi-tag-fill"></i>Difusores</button>
+                    </li>
+                    <li>
+                        <button id="textiles" class="boton-menu boton-categoria" ><i class="bi bi-tag-fill"></i>Textiles</button>
+                    </li>
+                    <li>
+                        <button id="pack" class="boton-menu boton-categoria" ><i class="bi bi-tag-fill"></i>Pack Premium</button>
+                    </li>
+                    <!-- <li>
+                        <a href="carrito.html" class=" boton-menu boton-carrito">
+                            <i class="bi bi-cart-plus"></i>Carrito<span id="numerito" class="numerito">0</span>
+                        </a>
+                    </li><i class="fa fa-align-justify" aria-hidden="true"></i>
+                </ul> -->
+            </nav>
+        <footer>
+            <a href="/"><i class="bi bi-backspace-fill">Salir</a></i></em>
+            <br>
+            <!-- <a href="https://www.facebook.com/people/alohaaromas/100068916818726/?paipv=0&eav=AfZ8pK878DZZR-Fhf5CctBfdsdJeawvSyhLivGngTEyz5SwRMLBxsr8b9Ri3Br_SGj4&_rdr" target="_blank" ><i class="bi bi-facebook"></i></a>
+            <a href="https://api.whatsapp.com/send/?phone=3462645915&text&type=phone_number&app_absent=0" target="_blank" ><i class="bi bi-whatsapp"></i></a>
+            <a href="https://www.instagram.com/aloha.aromas/?hl=es" target="_blank" ><i class="bi bi-instagram"></i></a> -->
+            <p class="texto-footer"><em>&copy;  2023 Aloha</p></em>
+        </footer>
+    </aside>
+    <main>
+        <form id="edit-form" class="edit-form">
+                <label for="titulo">Titulo</label>
+                <input type="text"  name="titulo" placeholder="Difusor Premium Pétalos de Orquídeas">
+                  <label for="imagen">Imagen</label>
+                  <input type="file"  name="imagen">
+                <label for="categoria">Categoria</label>
+                    <select name="categoria" id="">Seleccione su categoria
+                    <option value="aerosoles" id="aerosoles">Aerosoles</option>
+                        <option value="difusores" id="difusores">Difusores</option>
+                        <option value="Sahumerios" id="sahumerios">Sahumerios</option>
+                        <option value="Textiles" id="textiles">Textiles</option>
+                        <option value="pack" id="pack">Pack Premium</option>
+                        </select>
+                        <label for="precio">Precio</label>
+                  <input type="number" name="precio">
+                  <button id="save-button" class="custom-btn btn-2">Guardar</button>
+                <button id="cancel-button" class="custom-btn btn-2">Cancelar</button>
+            </form>
+        <h2 class="titulo-principal" id="titulo-principal">Todos los productos</h2>
+        <a href="/load" class="titulo-agregar"><i class="bi bi-plus-circle"> Agregar</i></a>
+        <div id="contenedor-productos" class="contenedor-productos">
+            <!-- <% productos.forEach(producto =>{%>
+                <div class="producto" id="card-producto">
+                    <img src="<%= producto.imagen %>" alt="" class="prod-img" id="card-prod-img">
+                    <div class="prod-detalles">
+                        <h3 class="prod-titulo"><%= producto.titulo %></h3>
+                        <p class="prod-precio">$<%= producto.precio %></p>
+                        <button class="agregar" id="agregar" name="submitButton">Agregar</button>
+                    </div>
+                </div>
+            <%})%> -->
+            </div>
+        </main>
+    </div>
+    <script type="module" src="JS/main.js"></script>
+    <script src="JS/admin.js"></script>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/toastify-js"></script>
+</body>
+</html>
